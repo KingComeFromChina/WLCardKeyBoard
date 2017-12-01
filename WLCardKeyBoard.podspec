@@ -4,9 +4,9 @@ Pod::Spec.new do |s|
 
   s.name         = "WLCardKeyBoard"
   s.version      = "0.0.1"
-  s.summary      = "Create ID Card keyboard by swift"
+  s.summary      = "ID Card keyboard by swift"
   s.description  = <<-DESC
-                  Create ID Card keyboard 
+                  Create ID Card keyboard by swift 
                    DESC
   s.homepage     = "https://github.com/KingComeFromChina/WLCardKeyBoard"
   s.license      = "MIT"
