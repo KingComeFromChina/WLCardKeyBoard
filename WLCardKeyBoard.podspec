@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "Create ID Card keyboard by swift"
   s.description  = <<-DESC
-                  Create ID Card keyboard by swift
+                  Create ID Card keyboard 
                    DESC
   s.homepage     = "https://github.com/KingComeFromChina/WLCardKeyBoard"
   s.license      = "MIT"
